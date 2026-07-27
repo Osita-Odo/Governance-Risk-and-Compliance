@@ -4,7 +4,7 @@ A risk assessment of a USB baiting scenario, examining the security risks of an 
 
 ## Scenario
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/aa8ef3b2-f9fb-4b93-b303-9539a5223122" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/aa8ef3b2-f9fb-4b93-b303-9539a5223122" />
 
 Jorge's drive contains a mix of personal and work-related files. For example, it contains folders that appear to store family and pet photos. There is also a new hire letter and an employee shift schedule.
 Review the types of information that Jorge has stored on this device. Then, in the Contents row of the activity template, write 2-3 sentences (40-60 words) about the type of information that's stored on the USB drive.
@@ -21,7 +21,7 @@ Consider some of the risks associated with USB baiting attacks:
 •	What sensitive information could a threat actor find on a device like this?
 •	How might that information be used against an individual or an organization?
 In the Risk analysis row of the activity template, write 3 or 4 sentences (60-80 words) describing any technical, operational, or managerial controls that could mitigate USB baiting attacks.
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/233ef99e-9ac4-43d4-a81f-1c94818994f0" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/233ef99e-9ac4-43d4-a81f-1c94818994f0" />
 
 
 ## Concepts covered
@@ -34,7 +34,7 @@ In the Risk analysis row of the activity template, write 3 or 4 sentences (60-80
 
 ## Assessment
 
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/fef0501a-e01a-4247-831a-5b8277c49189" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/fef0501a-e01a-4247-831a-5b8277c49189" />
 
 ### Contents
 
