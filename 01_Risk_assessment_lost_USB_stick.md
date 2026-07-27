@@ -56,6 +56,4 @@ Even without malicious code, the drive is a security risk because its contents c
 - A drive can be a security risk even when it carries no malware, because the PII it holds can fuel targeted attacks.
 - USB baiting relies on curiosity, so a combination of technical restrictions, staff awareness, and clear policy is the most effective defence.
 
-## Reference
 
-CISA, *Using Caution with USB Drives* — https://www.cisa.gov/news-events/news/using-caution-usb-drives
