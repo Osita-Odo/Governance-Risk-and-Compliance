@@ -4,9 +4,25 @@ A risk assessment of a USB baiting scenario, examining the security risks of an 
 
 ## Scenario
 
-As part of the security team at Rhetorical Hospital, I found a USB stick bearing the hospital's logo in the car park. Following best practice, the drive was investigated inside virtualisation software: a simulated instance of a computer that is isolated from other files and networks, so an infected drive cannot affect other systems.
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/aa8ef3b2-f9fb-4b93-b303-9539a5223122" />
 
-Inspecting the drive in the virtual environment revealed a mix of personal and work-related files apparently belonging to Jorge Bailey, the hospital's human resources manager, including family and pet photos, a new hire letter, and an employee shift schedule. None of the files were opened, which is the correct approach.
+Jorge's drive contains a mix of personal and work-related files. For example, it contains folders that appear to store family and pet photos. There is also a new hire letter and an employee shift schedule.
+Review the types of information that Jorge has stored on this device. Then, in the Contents row of the activity template, write 2-3 sentences (40-60 words) about the type of information that's stored on the USB drive.
+Note: USB drives often contain an assortment of personally identifiable information (PII). Attackers can easily use this sensitive information to target the data owner or others around them. 
+The flash drive appears to contain a mixture of personal and work-related files. Consider how an attacker might use this information if they obtained it. Also, consider whether this whole event was staged.
+For example, an attacker could have placed these files on the USB drive as a distraction. They might have targeted Jorge or someone he knows, hoping they would find the device and plug it into their workstation. In doing so, the attacker could establish a backdoor into the company's systems while the unsuspecting target browsed through the files.
+In the Attacker mindset row of the activity template, write 2-3 sentences (40-60 words) about how this information could be used against Jorge or the hospital.
+Pro tip: The Cybersecurity and Infrastructure Security Agency (CISA) provides some security tips on using caution with USB drives, including keeping personal and business drives separate.
+You have not opened any of the files on the device, which is best practice. 
+Attackers sometimes conduct USB baiting attacks to deliver malicious code that they've crafted.
+However, this USB drive was still a security risk even though it did not contain malicious code. It could have easily been found by an attacker who might have used its contents to plan a variety of attacks.
+Consider some of the risks associated with USB baiting attacks:
+•	What types of malicious software could be hidden on these devices? What could have happened if the device were infected and discovered by another employee?
+•	What sensitive information could a threat actor find on a device like this?
+•	How might that information be used against an individual or an organization?
+In the Risk analysis row of the activity template, write 3 or 4 sentences (60-80 words) describing any technical, operational, or managerial controls that could mitigate USB baiting attacks.
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/233ef99e-9ac4-43d4-a81f-1c94818994f0" />
+
 
 ## Concepts covered
 
@@ -17,6 +33,8 @@ Inspecting the drive in the virtual environment revealed a mix of personal and w
 - Technical, operational, and managerial controls
 
 ## Assessment
+
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/fef0501a-e01a-4247-831a-5b8277c49189" />
 
 ### Contents
 
