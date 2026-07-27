@@ -75,6 +75,3 @@ Overall risk is calculated as **Likelihood x Severity**.
 - NIST SP 800-30 provides a structured way to identify threat sources and events, then score likelihood and severity to prioritise remediation.
 - Effective remediation combines access control (MFA, role-based access, allow-listing) with strong encryption of data in transit.
 
-## Reference
-
-NIST Computer Security Resource Center, SP 800-30 Rev. 1 — https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final
