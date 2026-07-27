@@ -1,7 +1,7 @@
 # Assets-Threats-and-Vulnerabilities-Risk-Assessment-Labs
 
 
-A collection of risk assessment and asset management activities completed as part of the Google Cybersecurity Certificate (Assets, Threats, and Vulnerabilities). Each activity applies a security framework or method to a realistic scenario, from investigating a suspicious USB drive to building a risk register for a bank.
+A collection of risk assessment and asset management activities completed as part of the Google Cybersecurity Certificate (Assets, Threats, and Vulnerabilities). Each activity applies a security framework or method to a realistic scenario, from investigating a suspicious USB drive to building a risk register for a bank. These activities demonstrate applying recognised frameworks (NIST CSF, SP 800-30, SP 800-53) to assess and prioritise risk, classify assets, and recommend practical controls that protect an organisation's data and operations.
 
 ## Summary
 
@@ -28,6 +28,4 @@ These labs move through the practical side of managing risk in an organisation. 
 | 04 | [Data leak worksheet and least privilege](04_Data_leak_worksheet_least_privilege.md) | Analysing a data leak | Least privilege, AC-6, access auditing |
 | 05 | [Lab: risk matrix and risk register](05_Lab_risk_matrix.md) | Bank risk assessment | Risk register, risk matrix, prioritisation |
 
-## About
 
-These activities demonstrate applying recognised frameworks (NIST CSF, SP 800-30, SP 800-53) to assess and prioritise risk, classify assets, and recommend practical controls that protect an organisation's data and operations.
