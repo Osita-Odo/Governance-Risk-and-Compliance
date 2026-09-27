@@ -1,4 +1,4 @@
-# Assets-Threats-and-Vulnerabilities-Risk-Assessment-Labs
+# Governance, Risk and Compliance
 
 
 A collection of risk assessment and asset management activities completed as part of the Google Cybersecurity Certificate (Assets, Threats, and Vulnerabilities). Each activity applies a security framework or method to a realistic scenario, from investigating a suspicious USB drive to building a risk register for a bank. These activities demonstrate applying recognised frameworks (NIST CSF, SP 800-30, SP 800-53) to assess and prioritise risk, classify assets, and recommend practical controls that protect an organisation's data and operations.
